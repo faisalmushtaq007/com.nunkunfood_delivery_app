@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614670713476",
+    "firebase_url": "https://nunkun-client-45d37.firebaseio.com",
+    "project_id": "nunkun-client-45d37",
+    "storage_bucket": "nunkun-client-45d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614670713476:android:4cde309bbcd0796c29f8d1",
+        "android_client_info": {
+          "package_name": "com.nunkun.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614670713476-7qmhha9sq732u0mgumgiea6g2odelf9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JNb2IOHq1KKTrlpvtwH3s9Nr1QU_nnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614670713476-7qmhha9sq732u0mgumgiea6g2odelf9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
